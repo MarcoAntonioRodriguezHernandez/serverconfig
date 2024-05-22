@@ -1,2 +1,2 @@
 # serverconfig
-utuhd
+ 
